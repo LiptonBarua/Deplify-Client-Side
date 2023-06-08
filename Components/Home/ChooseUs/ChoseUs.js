@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const ChoseUs = () => {
     return (
-        <div className="md:max-w-[1140px] md:mx-auto" >
+        <div className="md:max-w-[1140px] md:mx-auto" id='#chose' >
             <div className="text-center">
             <h3 className="font-semibold text-2xl md:text-3xl mb-7">LEARN ABOUT</h3>
             <h2 className="font-semibold text-4xl md:text-5xl mb-7">Why Choose Deplify</h2>
